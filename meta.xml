@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>Troll app</name>
+	<version>1.1</version>
+	<release_date>20260513000000</release_date>
+	<coder>Exdigest</coder>
+	<short_description>most famous man</short_description>
+	<long_description>Hey you might know me already as the most famous man on the Internet, the question is: "What does a man like me do for a living?"</long_description>
+</app>
